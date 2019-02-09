@@ -1,7 +1,7 @@
 # Basic-Portfolio
 
-##### Technology Used
+#### Technology Used
 
 
-##### Github Pages Link
+#### Github Pages Link
 https://zzzbray.github.io/Basic-Portfolio/

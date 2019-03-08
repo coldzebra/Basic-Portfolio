@@ -4,4 +4,4 @@
 
 
 #### Github Pages Link
-https://zzzbray.github.io/Basic-Portfolio/
+https://zzzbray.github.io/basicPortfolio/
